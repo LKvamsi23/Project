@@ -2,7 +2,7 @@
 
 ## browser wars
 
-The war was between netscape and ie
+The war was between netscape and Ie
 
 ## the three layer architecture
 
@@ -46,6 +46,11 @@ The war was between netscape and ie
     <h1 class="awe">hello world😂</h1>
     <h2>hi there</h2>
     <h3 class="awe">awesome</h3>
+    <script>
+    var student={name:"vamsi",age:20,company:"Proclink"};
+    console.log(student.name);
+    console.log(student["age"]);
+    /* the above line is box code */
   </body>
 </html>
 ```
